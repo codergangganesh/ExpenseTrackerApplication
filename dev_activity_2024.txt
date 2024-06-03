@@ -4,3 +4,4 @@
 2024-06-03 10:50 - feat: add dark/light theme toggle
 2024-06-03 13:31 - docs: update README with setup instructions
 2024-06-03 17:23 - refactor: improve error handling
+2024-06-03 08:49 - feat: add budget management system
