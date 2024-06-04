@@ -8,3 +8,4 @@
 2024-06-04 16:56 - docs: create user guide
 2024-06-04 09:18 - test: add unit tests for services
 2024-06-04 10:54 - test: add accessibility tests
+2024-06-04 16:16 - test: add E2E test for user flows
