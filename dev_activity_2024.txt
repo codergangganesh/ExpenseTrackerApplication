@@ -10,3 +10,4 @@
 2024-06-04 10:54 - test: add accessibility tests
 2024-06-04 16:16 - test: add E2E test for user flows
 2024-06-04 11:46 - docs: add code style guidelines
+2024-06-04 10:19 - feat: add expense tracking functionality
