@@ -18,3 +18,4 @@
 2024-06-05 17:28 - chore: update .gitignore
 2024-06-05 12:29 - chore: add linting configuration
 2024-06-05 11:16 - docs: update changelog
+2024-06-05 17:25 - test: add unit tests for services
