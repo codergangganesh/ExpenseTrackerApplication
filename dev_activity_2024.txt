@@ -21,3 +21,4 @@
 2024-06-05 17:25 - test: add unit tests for services
 2024-06-06 09:29 - feat: implement user authentication
 2024-06-06 14:40 - chore: update dependencies
+2024-06-06 12:49 - feat: create mobile-responsive design
