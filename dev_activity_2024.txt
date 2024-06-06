@@ -23,3 +23,4 @@
 2024-06-06 14:40 - chore: update dependencies
 2024-06-06 12:49 - feat: create mobile-responsive design
 2024-06-06 20:40 - test: add unit tests for services
+2024-06-06 15:12 - docs: update API documentation
