@@ -40,3 +40,4 @@
 2024-06-11 15:47 - chore: configure code formatting
 2024-06-11 10:38 - refactor: optimize image loading
 2024-06-11 16:54 - docs: add code style guidelines
+2024-06-11 13:54 - chore: add linting configuration
