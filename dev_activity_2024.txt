@@ -41,3 +41,4 @@
 2024-06-11 10:38 - refactor: optimize image loading
 2024-06-11 16:54 - docs: add code style guidelines
 2024-06-11 13:54 - chore: add linting configuration
+2024-06-11 10:48 - feat: add expense tracking functionality
