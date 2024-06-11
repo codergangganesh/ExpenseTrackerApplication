@@ -39,3 +39,4 @@
 2024-06-10 08:12 - docs: update README with setup instructions
 2024-06-11 15:47 - chore: configure code formatting
 2024-06-11 10:38 - refactor: optimize image loading
+2024-06-11 16:54 - docs: add code style guidelines
