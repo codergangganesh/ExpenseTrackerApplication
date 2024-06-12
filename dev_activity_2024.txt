@@ -44,3 +44,4 @@
 2024-06-11 10:48 - feat: add expense tracking functionality
 2024-06-11 15:17 - feat: add expense tracking functionality
 2024-06-11 13:23 - refactor: optimize database queries
+2024-06-12 19:44 - test: add unit tests for services
