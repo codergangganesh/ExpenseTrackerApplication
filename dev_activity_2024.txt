@@ -48,3 +48,4 @@
 2024-06-12 13:37 - docs: document environment variables
 2024-06-12 14:23 - fix: resolve chart rendering issues
 2024-06-12 14:40 - chore: set up testing environment
+2024-06-12 15:02 - docs: document environment variables
