@@ -59,3 +59,4 @@
 2024-06-13 11:38 - fix: resolve chart rendering issues
 2024-06-14 11:03 - feat: create mobile-responsive design
 2024-06-14 08:04 - fix: fix data synchronization between devices
+2024-06-14 17:13 - refactor: restructure components for reusability
