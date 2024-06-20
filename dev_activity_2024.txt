@@ -84,3 +84,4 @@
 2024-06-20 12:38 - feat: add budget management system
 2024-06-20 15:21 - feat: implement data export to CSV/Excel
 2024-06-20 18:12 - refactor: update authentication flow
+2024-06-20 10:53 - docs: update changelog
