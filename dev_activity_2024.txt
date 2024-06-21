@@ -88,3 +88,4 @@
 2024-06-21 15:21 - chore: configure code formatting
 2024-06-21 20:51 - fix: fix currency formatting in reports
 2024-06-21 14:45 - feat: implement user authentication
+2024-06-21 14:30 - refactor: optimize image loading
