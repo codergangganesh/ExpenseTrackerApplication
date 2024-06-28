@@ -116,3 +116,4 @@
 2024-06-27 12:21 - test: add performance benchmarks
 2024-06-28 13:26 - feat: implement data export to CSV/Excel
 2024-06-28 19:12 - test: implement integration tests
+2024-06-28 10:59 - docs: add JSDoc comments to components
