@@ -1,2 +1,3 @@
 2024-07-01 00:00 - fix: correct currency formatting in exports
 2024-07-01 00:00 - docs: add JSDoc comments to components
+2024-07-01 00:00 - ui: enhance expense entry form UX
