@@ -1,1 +1,2 @@
 2024-07-01 12:55 - docs: add JSDoc to components
+2024-07-01 19:46 - refactor: improve state management
