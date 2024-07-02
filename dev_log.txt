@@ -2,3 +2,4 @@
 2024-07-01 00:00 - docs: add JSDoc comments to components
 2024-07-01 00:00 - ui: enhance expense entry form UX
 2024-07-01 00:00 - docs: add code style guidelines
+2024-07-02 00:00 - perf: reduce app bundle size
