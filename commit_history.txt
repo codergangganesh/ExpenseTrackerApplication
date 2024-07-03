@@ -7,3 +7,4 @@
 2024-07-02 20:01 - fix: correct currency conversion issues
 2024-07-02 17:10 - feat: implement expense categorization
 2024-07-02 11:21 - fix: resolve calculation errors in reports
+2024-07-03 19:13 - fix: fix data export functionality
