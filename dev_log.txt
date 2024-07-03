@@ -12,3 +12,4 @@
 2024-07-03 00:00 - perf: improve app startup time
 2024-07-03 00:00 - ui: add dark mode support
 2024-07-03 00:00 - docs: update README with setup instructions
+2024-07-03 00:00 - ui: improve mobile responsiveness
