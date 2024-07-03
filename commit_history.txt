@@ -9,3 +9,4 @@
 2024-07-02 11:21 - fix: resolve calculation errors in reports
 2024-07-03 19:13 - fix: fix data export functionality
 2024-07-03 15:33 - docs: add contribution guidelines
+2024-07-03 14:32 - feat: create financial goals feature
