@@ -14,3 +14,4 @@
 2024-07-04 17:34 - feat: add monthly budget tracking
 2024-07-04 17:55 - feat: create financial goals feature
 2024-07-04 10:22 - docs: update README with new features
+2024-07-04 17:15 - feat: create financial goals feature
