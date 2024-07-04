@@ -16,3 +16,4 @@
 2024-07-04 00:00 - feat: implement expense filtering by date range
 2024-07-04 00:00 - feat: add currency conversion support
 2024-07-04 00:00 - feat: create monthly budget tracking
+2024-07-04 00:00 - fix: resolve duplicate expense entries
