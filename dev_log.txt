@@ -18,3 +18,4 @@
 2024-07-04 00:00 - feat: create monthly budget tracking
 2024-07-04 00:00 - fix: resolve duplicate expense entries
 2024-07-04 00:00 - feat: create monthly budget tracking
+2024-07-04 00:00 - docs: update README with setup instructions
