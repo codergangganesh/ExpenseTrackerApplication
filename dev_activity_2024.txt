@@ -143,3 +143,4 @@
 2024-07-04 14:05 - refactor: update authentication flow
 2024-07-04 18:53 - test: test responsive layouts
 2024-07-04 12:18 - feat: implement user authentication
+2024-07-05 08:14 - fix: correct calculation errors in reports
