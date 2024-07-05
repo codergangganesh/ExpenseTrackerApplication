@@ -16,3 +16,4 @@
 2024-07-04 10:22 - docs: update README with new features
 2024-07-04 17:15 - feat: create financial goals feature
 2024-07-04 10:06 - docs: add JSDoc to components
+2024-07-05 15:56 - feat: add receipt scanning with OCR
