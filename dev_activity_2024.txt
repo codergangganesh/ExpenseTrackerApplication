@@ -145,3 +145,4 @@
 2024-07-04 12:18 - feat: implement user authentication
 2024-07-05 08:14 - fix: correct calculation errors in reports
 2024-07-05 20:20 - refactor: enhance form validation logic
+2024-07-05 11:12 - chore: update deployment scripts
