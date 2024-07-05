@@ -18,3 +18,4 @@
 2024-07-04 10:06 - docs: add JSDoc to components
 2024-07-05 15:56 - feat: add receipt scanning with OCR
 2024-07-05 12:55 - refactor: update authentication flow
+2024-07-05 14:45 - feat: add monthly budget tracking
