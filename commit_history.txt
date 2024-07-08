@@ -23,3 +23,4 @@
 2024-07-08 16:05 - docs: update README with new features
 2024-07-08 14:13 - fix: fix data export functionality
 2024-07-08 20:32 - fix: resolve calculation errors in reports
+2024-07-08 15:45 - fix: resolve sync conflicts between devices
