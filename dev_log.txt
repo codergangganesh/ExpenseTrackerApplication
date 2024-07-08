@@ -25,3 +25,4 @@
 2024-07-08 00:00 - fix: fix authentication token expiration
 2024-07-08 00:00 - fix: fix authentication token expiration
 2024-07-08 00:00 - docs: create user guide for expense tracking
+2024-07-08 00:00 - feat: add currency conversion support
