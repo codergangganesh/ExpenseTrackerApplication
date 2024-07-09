@@ -153,3 +153,4 @@
 2024-07-08 14:57 - test: add performance benchmarks
 2024-07-08 09:59 - feat: implement data export to CSV/Excel
 2024-07-08 15:00 - docs: add JSDoc comments to components
+2024-07-09 20:36 - docs: document environment variables
