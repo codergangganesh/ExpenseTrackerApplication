@@ -27,3 +27,4 @@
 2024-07-08 11:17 - fix: fix data export functionality
 2024-07-09 09:24 - refactor: restructure components for reusability
 2024-07-09 12:33 - feat: create financial goals feature
+2024-07-09 14:21 - test: add E2E test for user flows
