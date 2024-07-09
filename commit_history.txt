@@ -29,3 +29,4 @@
 2024-07-09 12:33 - feat: create financial goals feature
 2024-07-09 14:21 - test: add E2E test for user flows
 2024-07-09 09:38 - feat: add dark mode support
+2024-07-09 12:05 - feat: add receipt scanning with OCR
