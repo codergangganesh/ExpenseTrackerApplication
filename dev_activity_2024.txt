@@ -155,3 +155,4 @@
 2024-07-08 15:00 - docs: add JSDoc comments to components
 2024-07-09 20:36 - docs: document environment variables
 2024-07-09 09:33 - refactor: restructure components for reusability
+2024-07-09 15:01 - refactor: update authentication flow
