@@ -157,3 +157,4 @@
 2024-07-09 09:33 - refactor: restructure components for reusability
 2024-07-09 15:01 - refactor: update authentication flow
 2024-07-09 11:41 - docs: document environment variables
+2024-07-09 12:23 - test: add accessibility tests
