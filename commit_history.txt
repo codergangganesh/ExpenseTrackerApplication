@@ -32,3 +32,4 @@
 2024-07-09 12:05 - feat: add receipt scanning with OCR
 2024-07-10 18:30 - test: add performance benchmarks
 2024-07-10 16:01 - refactor: optimize database queries
+2024-07-10 17:11 - fix: resolve sync conflicts between devices
