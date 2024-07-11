@@ -35,3 +35,4 @@
 2024-07-10 17:11 - fix: resolve sync conflicts between devices
 2024-07-10 19:31 - docs: update API documentation
 2024-07-10 09:55 - fix: resolve sync conflicts between devices
+2024-07-11 12:29 - test: add unit tests for expense service
