@@ -36,3 +36,4 @@
 2024-07-10 00:00 - fix: fix authentication token expiration
 2024-07-10 00:00 - perf: optimize image loading in reports
 2024-07-10 00:00 - perf: improve app startup time
+2024-07-11 00:00 - perf: optimize database queries for dashboard
