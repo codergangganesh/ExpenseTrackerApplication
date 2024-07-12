@@ -43,3 +43,4 @@
 2024-07-12 11:31 - refactor: update authentication flow
 2024-07-12 19:36 - fix: fix timezone handling in expense dates
 2024-07-12 19:54 - test: add E2E test for user flows
+2024-07-12 12:03 - refactor: optimize database queries
