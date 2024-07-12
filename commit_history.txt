@@ -40,3 +40,4 @@
 2024-07-11 13:42 - docs: update README with new features
 2024-07-11 20:09 - feat: implement expense categorization
 2024-07-11 10:58 - docs: add contribution guidelines
+2024-07-12 11:31 - refactor: update authentication flow
