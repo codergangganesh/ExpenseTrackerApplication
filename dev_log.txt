@@ -40,3 +40,4 @@
 2024-07-11 00:00 - feat: add expense category management
 2024-07-11 00:00 - fix: fix date parsing issue in expense form
 2024-07-12 00:00 - feat: add expense category management
+2024-07-12 00:00 - ui: redesign dashboard with new metrics
