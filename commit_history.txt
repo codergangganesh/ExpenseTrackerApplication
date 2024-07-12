@@ -45,3 +45,4 @@
 2024-07-12 19:54 - test: add E2E test for user flows
 2024-07-12 12:03 - refactor: optimize database queries
 2024-07-12 16:38 - refactor: improve state management
+2024-07-12 18:39 - feat: add monthly budget tracking
