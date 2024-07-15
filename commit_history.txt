@@ -46,3 +46,4 @@
 2024-07-12 12:03 - refactor: optimize database queries
 2024-07-12 16:38 - refactor: improve state management
 2024-07-12 18:39 - feat: add monthly budget tracking
+2024-07-15 13:07 - fix: correct currency conversion issues
