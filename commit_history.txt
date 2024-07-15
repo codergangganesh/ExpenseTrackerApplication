@@ -50,3 +50,4 @@
 2024-07-15 15:30 - test: test edge cases in calculations
 2024-07-15 20:02 - fix: resolve sync conflicts between devices
 2024-07-15 20:09 - feat: add receipt scanning with OCR
+2024-07-15 09:09 - docs: add contribution guidelines
