@@ -179,3 +179,4 @@
 2024-07-12 19:51 - fix: fix data synchronization between devices
 2024-07-15 13:43 - docs: create user guide
 2024-07-15 16:27 - test: add E2E test for user flows
+2024-07-15 09:28 - chore: update dependencies
