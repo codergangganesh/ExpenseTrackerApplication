@@ -48,3 +48,4 @@
 2024-07-12 18:39 - feat: add monthly budget tracking
 2024-07-15 13:07 - fix: correct currency conversion issues
 2024-07-15 15:30 - test: test edge cases in calculations
+2024-07-15 20:02 - fix: resolve sync conflicts between devices
