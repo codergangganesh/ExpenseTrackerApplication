@@ -42,3 +42,4 @@
 2024-07-12 00:00 - feat: add expense category management
 2024-07-12 00:00 - ui: redesign dashboard with new metrics
 2024-07-12 00:00 - docs: add code style guidelines
+2024-07-15 00:00 - fix: fix authentication token expiration
