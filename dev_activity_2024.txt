@@ -188,3 +188,4 @@
 2024-07-16 12:35 - refactor: restructure components for reusability
 2024-07-16 11:25 - fix: fix file upload validation
 2024-07-16 08:10 - feat: implement data export to CSV/Excel
+2024-07-16 16:32 - refactor: update authentication flow
