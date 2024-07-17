@@ -57,3 +57,4 @@
 2024-07-17 12:48 - fix: fix data export functionality
 2024-07-17 12:51 - feat: add dark mode support
 2024-07-17 09:21 - feat: implement expense categorization
+2024-07-17 13:43 - fix: resolve sync conflicts between devices
