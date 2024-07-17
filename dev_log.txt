@@ -52,3 +52,4 @@
 2024-07-16 00:00 - ui: add data visualization for spending patterns
 2024-07-16 00:00 - ui: improve mobile responsiveness
 2024-07-17 00:00 - perf: cache frequently accessed data
+2024-07-17 00:00 - fix: resolve calculation error in monthly report
