@@ -56,3 +56,4 @@
 2024-07-17 00:00 - perf: cache frequently accessed data
 2024-07-17 00:00 - feat: implement expense filtering by date range
 2024-07-17 00:00 - feat: add bulk expense import from CSV
+2024-07-17 00:00 - docs: update README with setup instructions
