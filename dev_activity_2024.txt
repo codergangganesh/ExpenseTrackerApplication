@@ -191,3 +191,4 @@
 2024-07-16 16:32 - refactor: update authentication flow
 2024-07-17 10:26 - refactor: restructure components for reusability
 2024-07-17 09:17 - docs: create user guide
+2024-07-17 11:22 - feat: implement data export to CSV/Excel
