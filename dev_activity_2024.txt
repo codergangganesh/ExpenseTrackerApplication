@@ -192,3 +192,4 @@
 2024-07-17 10:26 - refactor: restructure components for reusability
 2024-07-17 09:17 - docs: create user guide
 2024-07-17 11:22 - feat: implement data export to CSV/Excel
+2024-07-17 16:17 - fix: resolve chart rendering issues
