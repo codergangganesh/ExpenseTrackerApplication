@@ -55,3 +55,4 @@
 2024-07-16 10:28 - test: add performance benchmarks
 2024-07-16 18:28 - feat: add dark mode support
 2024-07-17 12:48 - fix: fix data export functionality
+2024-07-17 12:51 - feat: add dark mode support
