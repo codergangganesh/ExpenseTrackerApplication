@@ -59,3 +59,4 @@
 2024-07-17 09:21 - feat: implement expense categorization
 2024-07-17 13:43 - fix: resolve sync conflicts between devices
 2024-07-17 13:12 - fix: fix timezone handling in expense dates
+2024-07-18 15:26 - test: add performance benchmarks
