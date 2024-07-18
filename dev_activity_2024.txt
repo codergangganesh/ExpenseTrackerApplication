@@ -201,3 +201,4 @@
 2024-07-18 15:11 - docs: update API documentation
 2024-07-18 13:15 - fix: fix file upload validation
 2024-07-18 09:06 - fix: fix currency formatting in reports
+2024-07-18 18:29 - chore: update dependencies
