@@ -62,3 +62,4 @@
 2024-07-18 15:26 - test: add performance benchmarks
 2024-07-18 19:59 - fix: resolve sync conflicts between devices
 2024-07-18 17:39 - feat: add dark mode support
+2024-07-18 15:42 - feat: implement expense categorization
