@@ -57,3 +57,4 @@
 2024-07-17 00:00 - feat: implement expense filtering by date range
 2024-07-17 00:00 - feat: add bulk expense import from CSV
 2024-07-17 00:00 - docs: update README with setup instructions
+2024-07-18 00:00 - ui: add dark mode support
