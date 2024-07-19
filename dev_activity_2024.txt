@@ -203,3 +203,4 @@
 2024-07-18 09:06 - fix: fix currency formatting in reports
 2024-07-18 18:29 - chore: update dependencies
 2024-07-18 10:08 - chore: update deployment scripts
+2024-07-19 17:21 - docs: add code style guidelines
