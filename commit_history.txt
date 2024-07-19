@@ -66,3 +66,4 @@
 2024-07-19 17:34 - docs: create user guide
 2024-07-19 15:17 - feat: add dark mode support
 2024-07-19 20:53 - fix: resolve sync conflicts between devices
+2024-07-19 20:48 - feat: add receipt scanning with OCR
