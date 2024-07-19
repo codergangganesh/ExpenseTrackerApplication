@@ -65,3 +65,4 @@
 2024-07-18 15:42 - feat: implement expense categorization
 2024-07-19 17:34 - docs: create user guide
 2024-07-19 15:17 - feat: add dark mode support
+2024-07-19 20:53 - fix: resolve sync conflicts between devices
