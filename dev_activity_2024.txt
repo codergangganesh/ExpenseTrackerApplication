@@ -216,3 +216,4 @@
 2024-07-22 19:53 - fix: correct date handling in expense form
 2024-07-22 10:37 - refactor: optimize image loading
 2024-07-22 09:03 - chore: set up testing environment
+2024-07-22 12:45 - test: add accessibility tests
