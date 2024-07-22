@@ -69,3 +69,4 @@
 2024-07-19 20:48 - feat: add receipt scanning with OCR
 2024-07-19 13:35 - fix: resolve calculation errors in reports
 2024-07-22 13:20 - feat: add monthly budget tracking
+2024-07-22 11:14 - test: implement integration tests
