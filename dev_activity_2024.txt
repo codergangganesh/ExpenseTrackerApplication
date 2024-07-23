@@ -220,3 +220,4 @@
 2024-07-23 17:21 - docs: update changelog
 2024-07-23 16:55 - feat: create mobile-responsive design
 2024-07-23 08:32 - chore: update .gitignore
+2024-07-23 19:59 - refactor: restructure components for reusability
