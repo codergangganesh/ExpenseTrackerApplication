@@ -76,3 +76,4 @@
 2024-07-22 13:35 - test: add performance benchmarks
 2024-07-23 11:25 - feat: add monthly budget tracking
 2024-07-23 10:47 - fix: fix timezone handling in expense dates
+2024-07-23 18:16 - docs: create user guide
