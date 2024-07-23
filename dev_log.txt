@@ -71,3 +71,4 @@
 2024-07-22 00:00 - perf: optimize database queries for dashboard
 2024-07-23 00:00 - fix: fix authentication token expiration
 2024-07-23 00:00 - perf: optimize database queries for dashboard
+2024-07-23 00:00 - ui: redesign dashboard with new metrics
