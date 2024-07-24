@@ -79,3 +79,4 @@
 2024-07-23 18:16 - docs: create user guide
 2024-07-24 11:46 - test: add unit tests for expense service
 2024-07-24 10:58 - refactor: restructure components for reusability
+2024-07-24 20:42 - test: implement integration tests
