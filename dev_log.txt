@@ -76,3 +76,4 @@
 2024-07-24 00:00 - fix: resolve duplicate expense entries
 2024-07-24 00:00 - perf: reduce app bundle size
 2024-07-25 00:00 - ui: improve mobile responsiveness
+2024-07-25 00:00 - docs: add code style guidelines
