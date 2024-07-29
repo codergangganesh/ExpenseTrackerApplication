@@ -85,3 +85,4 @@
 2024-07-26 00:00 - ui: redesign dashboard with new metrics
 2024-07-26 00:00 - fix: resolve calculation error in monthly report
 2024-07-29 00:00 - feat: create monthly budget tracking
+2024-07-29 00:00 - docs: update README with setup instructions
