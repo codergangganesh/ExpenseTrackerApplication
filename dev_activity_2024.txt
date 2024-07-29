@@ -243,3 +243,4 @@
 2024-07-26 15:15 - chore: add linting configuration
 2024-07-29 13:55 - fix: fix file upload validation
 2024-07-29 15:27 - refactor: update authentication flow
+2024-07-29 18:40 - fix: correct date handling in expense form
