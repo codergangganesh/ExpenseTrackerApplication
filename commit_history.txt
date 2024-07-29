@@ -94,3 +94,4 @@
 2024-07-29 10:26 - feat: add receipt scanning with OCR
 2024-07-29 18:16 - test: test edge cases in calculations
 2024-07-29 09:57 - fix: resolve sync conflicts between devices
+2024-07-29 12:25 - docs: add JSDoc to components
