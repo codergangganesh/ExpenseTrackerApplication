@@ -257,3 +257,4 @@
 2024-07-31 08:21 - docs: update changelog
 2024-07-31 18:48 - fix: correct date handling in expense form
 2024-07-31 16:40 - test: implement integration tests
+2024-07-31 17:02 - docs: update changelog
