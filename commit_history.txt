@@ -104,3 +104,4 @@
 2024-07-31 15:19 - feat: add dark mode support
 2024-07-31 09:17 - docs: add contribution guidelines
 2024-07-31 09:54 - refactor: optimize database queries
+2024-07-31 09:26 - feat: implement expense categorization
