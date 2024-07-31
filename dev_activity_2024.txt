@@ -254,3 +254,4 @@
 2024-07-31 19:51 - docs: create user guide
 2024-07-31 12:35 - fix: fix file upload validation
 2024-07-31 19:09 - test: add performance benchmarks
+2024-07-31 08:21 - docs: update changelog
