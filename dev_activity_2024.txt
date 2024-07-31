@@ -253,3 +253,4 @@
 2024-07-30 19:26 - test: add E2E test for user flows
 2024-07-31 19:51 - docs: create user guide
 2024-07-31 12:35 - fix: fix file upload validation
+2024-07-31 19:09 - test: add performance benchmarks
