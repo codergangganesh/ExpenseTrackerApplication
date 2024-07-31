@@ -94,3 +94,4 @@
 2024-07-31 00:00 - fix: fix authentication token expiration
 2024-07-31 00:00 - feat: implement expense filtering by date range
 2024-07-31 00:00 - feat: add bulk expense import from CSV
+2024-07-31 00:00 - feat: add bulk expense import from CSV
