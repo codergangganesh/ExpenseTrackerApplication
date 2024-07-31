@@ -255,3 +255,4 @@
 2024-07-31 12:35 - fix: fix file upload validation
 2024-07-31 19:09 - test: add performance benchmarks
 2024-07-31 08:21 - docs: update changelog
+2024-07-31 18:48 - fix: correct date handling in expense form
