@@ -101,3 +101,4 @@
 2024-08-01 00:00 - perf: improve app startup time
 2024-08-01 00:00 - ui: enhance expense entry form UX
 2024-08-01 00:00 - docs: add JSDoc comments to components
+2024-08-01 00:00 - docs: add code style guidelines
