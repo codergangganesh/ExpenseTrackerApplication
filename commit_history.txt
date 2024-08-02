@@ -109,3 +109,4 @@
 2024-08-01 11:58 - feat: create financial goals feature
 2024-08-01 15:29 - refactor: optimize database queries
 2024-08-02 19:04 - docs: add JSDoc to components
+2024-08-02 10:46 - refactor: improve state management
