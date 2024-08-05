@@ -114,3 +114,4 @@
 2024-08-02 09:37 - refactor: optimize database queries
 2024-08-05 20:29 - docs: create user guide
 2024-08-05 13:00 - docs: add contribution guidelines
+2024-08-05 10:09 - fix: correct currency conversion issues
