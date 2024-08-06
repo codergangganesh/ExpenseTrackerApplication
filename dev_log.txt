@@ -112,3 +112,4 @@
 2024-08-06 00:00 - docs: add JSDoc comments to components
 2024-08-06 00:00 - fix: resolve calculation error in monthly report
 2024-08-06 00:00 - feat: add bulk expense import from CSV
+2024-08-06 00:00 - ui: enhance expense entry form UX
