@@ -109,3 +109,4 @@
 2024-08-05 00:00 - perf: cache frequently accessed data
 2024-08-05 00:00 - fix: correct currency formatting in exports
 2024-08-05 00:00 - perf: improve app startup time
+2024-08-06 00:00 - docs: add JSDoc comments to components
