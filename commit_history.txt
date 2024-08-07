@@ -123,3 +123,4 @@
 2024-08-06 11:57 - fix: resolve sync conflicts between devices
 2024-08-06 16:25 - test: add unit tests for expense service
 2024-08-07 13:29 - fix: correct currency conversion issues
+2024-08-07 14:22 - refactor: improve state management
