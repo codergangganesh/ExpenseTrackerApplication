@@ -117,3 +117,4 @@
 2024-08-07 00:00 - feat: add currency conversion support
 2024-08-07 00:00 - perf: cache frequently accessed data
 2024-08-07 00:00 - perf: reduce app bundle size
+2024-08-07 00:00 - perf: cache frequently accessed data
