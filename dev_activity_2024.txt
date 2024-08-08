@@ -288,3 +288,4 @@
 2024-08-07 16:04 - docs: create user guide
 2024-08-08 12:22 - docs: update changelog
 2024-08-08 13:58 - chore: update .gitignore
+2024-08-08 13:49 - test: add accessibility tests
