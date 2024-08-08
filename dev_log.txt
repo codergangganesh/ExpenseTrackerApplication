@@ -122,3 +122,4 @@
 2024-08-07 00:00 - docs: create user guide for expense tracking
 2024-08-08 00:00 - docs: add JSDoc comments to components
 2024-08-08 00:00 - ui: add dark mode support
+2024-08-08 00:00 - feat: add currency conversion support
