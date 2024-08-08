@@ -290,3 +290,4 @@
 2024-08-08 13:58 - chore: update .gitignore
 2024-08-08 13:49 - test: add accessibility tests
 2024-08-08 15:37 - docs: create user guide
+2024-08-08 08:41 - chore: update deployment scripts
