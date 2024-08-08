@@ -120,3 +120,4 @@
 2024-08-07 00:00 - perf: cache frequently accessed data
 2024-08-07 00:00 - docs: update API documentation
 2024-08-07 00:00 - docs: create user guide for expense tracking
+2024-08-08 00:00 - docs: add JSDoc comments to components
