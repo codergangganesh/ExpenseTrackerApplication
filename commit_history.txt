@@ -128,3 +128,4 @@
 2024-08-07 09:34 - refactor: improve state management
 2024-08-08 14:19 - test: implement integration tests
 2024-08-08 17:51 - fix: correct currency conversion issues
+2024-08-08 17:49 - fix: correct currency conversion issues
