@@ -131,3 +131,4 @@
 2024-08-08 17:49 - fix: correct currency conversion issues
 2024-08-08 15:12 - test: implement integration tests
 2024-08-09 12:04 - fix: fix timezone handling in expense dates
+2024-08-09 14:08 - fix: correct currency conversion issues
