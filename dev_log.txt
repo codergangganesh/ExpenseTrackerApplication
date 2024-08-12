@@ -129,3 +129,4 @@
 2024-08-09 00:00 - perf: cache frequently accessed data
 2024-08-09 00:00 - perf: optimize image loading in reports
 2024-08-12 00:00 - fix: resolve duplicate expense entries
+2024-08-12 00:00 - docs: update API documentation
