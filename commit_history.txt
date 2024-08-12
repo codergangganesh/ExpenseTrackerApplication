@@ -138,3 +138,4 @@
 2024-08-12 10:25 - docs: add contribution guidelines
 2024-08-12 12:52 - test: implement integration tests
 2024-08-12 16:21 - fix: resolve sync conflicts between devices
+2024-08-12 09:37 - feat: add receipt scanning with OCR
