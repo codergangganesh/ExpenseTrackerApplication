@@ -308,3 +308,4 @@
 2024-08-13 08:34 - feat: implement data export to CSV/Excel
 2024-08-13 19:01 - test: implement integration tests
 2024-08-13 17:03 - docs: document environment variables
+2024-08-13 09:53 - docs: document environment variables
