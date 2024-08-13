@@ -145,3 +145,4 @@
 2024-08-13 20:28 - fix: fix data export functionality
 2024-08-13 11:10 - feat: add dark mode support
 2024-08-13 20:17 - test: implement integration tests
+2024-08-13 12:59 - feat: add receipt scanning with OCR
