@@ -143,3 +143,4 @@
 2024-08-13 12:53 - test: add performance benchmarks
 2024-08-13 12:56 - docs: create user guide
 2024-08-13 20:28 - fix: fix data export functionality
+2024-08-13 11:10 - feat: add dark mode support
