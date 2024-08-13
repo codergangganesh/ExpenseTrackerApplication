@@ -132,3 +132,4 @@
 2024-08-12 00:00 - docs: update API documentation
 2024-08-12 00:00 - docs: update README with setup instructions
 2024-08-12 00:00 - ui: add dark mode support
+2024-08-13 00:00 - perf: optimize image loading in reports
