@@ -313,3 +313,4 @@
 2024-08-14 15:15 - docs: update changelog
 2024-08-14 12:19 - feat: add expense tracking functionality
 2024-08-14 15:57 - test: implement integration tests
+2024-08-14 08:12 - fix: fix data synchronization between devices
