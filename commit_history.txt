@@ -147,3 +147,4 @@
 2024-08-13 20:17 - test: implement integration tests
 2024-08-13 12:59 - feat: add receipt scanning with OCR
 2024-08-14 14:26 - refactor: improve state management
+2024-08-14 20:53 - refactor: restructure components for reusability
