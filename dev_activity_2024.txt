@@ -310,3 +310,4 @@
 2024-08-13 17:03 - docs: document environment variables
 2024-08-13 09:53 - docs: document environment variables
 2024-08-14 16:29 - docs: add JSDoc comments to components
+2024-08-14 15:15 - docs: update changelog
