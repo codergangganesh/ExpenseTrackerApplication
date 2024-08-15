@@ -147,3 +147,4 @@
 2024-08-15 00:00 - perf: optimize image loading in reports
 2024-08-15 00:00 - fix: correct currency formatting in exports
 2024-08-15 00:00 - ui: improve mobile responsiveness
+2024-08-15 00:00 - ui: add dark mode support
