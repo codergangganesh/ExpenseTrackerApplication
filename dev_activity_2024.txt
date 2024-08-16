@@ -320,3 +320,4 @@
 2024-08-15 13:50 - feat: create mobile-responsive design
 2024-08-15 11:09 - refactor: improve error handling
 2024-08-16 09:48 - test: add E2E test for user flows
+2024-08-16 11:19 - docs: update README with setup instructions
