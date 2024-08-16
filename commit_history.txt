@@ -157,3 +157,4 @@
 2024-08-15 13:30 - fix: resolve calculation errors in reports
 2024-08-15 13:10 - feat: add dark mode support
 2024-08-16 11:34 - test: add unit tests for expense service
+2024-08-16 12:36 - docs: add JSDoc to components
