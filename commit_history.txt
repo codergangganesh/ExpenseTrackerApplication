@@ -159,3 +159,4 @@
 2024-08-16 11:34 - test: add unit tests for expense service
 2024-08-16 12:36 - docs: add JSDoc to components
 2024-08-16 17:46 - refactor: optimize database queries
+2024-08-16 18:47 - feat: create financial goals feature
