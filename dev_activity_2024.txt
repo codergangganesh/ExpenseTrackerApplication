@@ -326,3 +326,4 @@
 2024-08-16 11:15 - test: add unit tests for services
 2024-08-16 08:24 - docs: update API documentation
 2024-08-19 09:03 - test: add accessibility tests
+2024-08-19 16:17 - feat: add dark/light theme toggle
