@@ -329,3 +329,4 @@
 2024-08-19 16:17 - feat: add dark/light theme toggle
 2024-08-19 10:56 - test: test responsive layouts
 2024-08-19 16:50 - fix: fix file upload validation
+2024-08-19 20:31 - test: implement integration tests
