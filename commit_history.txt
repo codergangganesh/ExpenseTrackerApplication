@@ -169,3 +169,4 @@
 2024-08-20 14:36 - refactor: restructure components for reusability
 2024-08-21 13:42 - docs: add JSDoc to components
 2024-08-21 10:54 - fix: correct currency conversion issues
+2024-08-21 14:13 - fix: fix timezone handling in expense dates
