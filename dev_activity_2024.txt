@@ -341,3 +341,4 @@
 2024-08-21 15:16 - test: add accessibility tests
 2024-08-21 14:00 - refactor: improve error handling
 2024-08-21 19:39 - chore: configure code formatting
+2024-08-21 19:09 - refactor: update authentication flow
