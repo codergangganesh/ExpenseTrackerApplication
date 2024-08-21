@@ -159,3 +159,4 @@
 2024-08-20 00:00 - perf: optimize database queries for dashboard
 2024-08-20 00:00 - feat: add bulk expense import from CSV
 2024-08-20 00:00 - perf: reduce app bundle size
+2024-08-21 00:00 - perf: improve app startup time
