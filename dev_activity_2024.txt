@@ -337,3 +337,4 @@
 2024-08-20 13:33 - feat: add dark/light theme toggle
 2024-08-21 19:54 - feat: add expense tracking functionality
 2024-08-21 15:20 - test: implement integration tests
+2024-08-21 18:11 - feat: implement data export to CSV/Excel
