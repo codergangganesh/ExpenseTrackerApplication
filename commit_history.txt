@@ -167,3 +167,4 @@
 2024-08-20 15:29 - docs: update README with new features
 2024-08-20 16:52 - feat: create financial goals feature
 2024-08-20 14:36 - refactor: restructure components for reusability
+2024-08-21 13:42 - docs: add JSDoc to components
