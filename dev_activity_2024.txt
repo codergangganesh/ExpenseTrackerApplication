@@ -346,3 +346,4 @@
 2024-08-22 20:40 - fix: correct date handling in expense form
 2024-08-22 18:15 - chore: update dependencies
 2024-08-22 20:01 - fix: fix data synchronization between devices
+2024-08-22 16:34 - test: add performance benchmarks
