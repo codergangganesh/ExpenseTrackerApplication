@@ -165,3 +165,4 @@
 2024-08-21 00:00 - ui: redesign dashboard with new metrics
 2024-08-22 00:00 - fix: correct currency formatting in exports
 2024-08-22 00:00 - perf: improve app startup time
+2024-08-22 00:00 - feat: add currency conversion support
