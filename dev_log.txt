@@ -163,3 +163,4 @@
 2024-08-21 00:00 - ui: add data visualization for spending patterns
 2024-08-21 00:00 - docs: add JSDoc comments to components
 2024-08-21 00:00 - ui: redesign dashboard with new metrics
+2024-08-22 00:00 - fix: correct currency formatting in exports
