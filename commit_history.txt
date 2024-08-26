@@ -182,3 +182,4 @@
 2024-08-23 10:41 - feat: add dark mode support
 2024-08-26 19:34 - docs: create user guide
 2024-08-26 20:13 - refactor: improve state management
+2024-08-26 13:47 - feat: add dark mode support
