@@ -175,3 +175,4 @@
 2024-08-23 00:00 - fix: resolve duplicate expense entries
 2024-08-23 00:00 - ui: add dark mode support
 2024-08-26 00:00 - ui: redesign dashboard with new metrics
+2024-08-26 00:00 - ui: add dark mode support
