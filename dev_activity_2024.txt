@@ -357,3 +357,4 @@
 2024-08-26 18:06 - test: add E2E test for user flows
 2024-08-26 11:44 - fix: correct date handling in expense form
 2024-08-26 09:33 - test: test edge cases in calculations
+2024-08-26 12:29 - feat: implement data export to CSV/Excel
