@@ -188,3 +188,4 @@
 2024-08-27 17:59 - docs: add contribution guidelines
 2024-08-27 20:03 - feat: create financial goals feature
 2024-08-27 19:14 - feat: add receipt scanning with OCR
+2024-08-27 13:29 - fix: correct currency conversion issues
