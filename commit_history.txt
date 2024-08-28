@@ -189,3 +189,4 @@
 2024-08-27 20:03 - feat: create financial goals feature
 2024-08-27 19:14 - feat: add receipt scanning with OCR
 2024-08-27 13:29 - fix: correct currency conversion issues
+2024-08-28 12:40 - docs: update README with new features
