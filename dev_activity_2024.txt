@@ -367,3 +367,4 @@
 2024-08-27 10:25 - refactor: optimize image loading
 2024-08-28 13:11 - docs: create user guide
 2024-08-28 13:06 - test: add E2E test for user flows
+2024-08-28 10:17 - feat: add dark/light theme toggle
