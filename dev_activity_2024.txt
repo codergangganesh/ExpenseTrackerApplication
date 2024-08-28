@@ -370,3 +370,4 @@
 2024-08-28 10:17 - feat: add dark/light theme toggle
 2024-08-28 09:33 - test: test edge cases in calculations
 2024-08-28 13:30 - refactor: update authentication flow
+2024-08-28 20:54 - chore: update deployment scripts
