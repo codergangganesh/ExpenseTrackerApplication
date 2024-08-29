@@ -196,3 +196,4 @@
 2024-08-28 17:04 - docs: update README with new features
 2024-08-28 13:03 - refactor: optimize database queries
 2024-08-29 14:35 - fix: resolve calculation errors in reports
+2024-08-29 19:49 - fix: fix data export functionality
