@@ -201,3 +201,4 @@
 2024-08-29 18:41 - feat: add receipt scanning with OCR
 2024-08-30 12:15 - feat: implement expense categorization
 2024-08-30 19:32 - feat: implement expense categorization
+2024-08-30 09:59 - fix: resolve calculation errors in reports
