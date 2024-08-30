@@ -191,3 +191,4 @@
 2024-08-30 00:00 - feat: add expense category management
 2024-08-30 00:00 - fix: fix authentication token expiration
 2024-08-30 00:00 - perf: reduce app bundle size
+2024-08-30 00:00 - ui: enhance expense entry form UX
