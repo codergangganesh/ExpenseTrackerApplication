@@ -207,3 +207,4 @@
 2024-09-02 16:56 - docs: update API documentation
 2024-09-02 10:37 - feat: add monthly budget tracking
 2024-09-02 17:24 - docs: update API documentation
+2024-09-02 18:41 - refactor: restructure components for reusability
