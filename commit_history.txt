@@ -209,3 +209,4 @@
 2024-09-02 17:24 - docs: update API documentation
 2024-09-02 18:41 - refactor: restructure components for reusability
 2024-09-03 12:44 - feat: add dark mode support
+2024-09-03 12:16 - fix: correct currency conversion issues
