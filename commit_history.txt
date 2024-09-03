@@ -211,3 +211,4 @@
 2024-09-03 12:44 - feat: add dark mode support
 2024-09-03 12:16 - fix: correct currency conversion issues
 2024-09-03 09:45 - test: test edge cases in calculations
+2024-09-03 10:51 - docs: create user guide
