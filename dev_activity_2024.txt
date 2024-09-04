@@ -394,3 +394,4 @@
 2024-09-03 19:00 - chore: update deployment scripts
 2024-09-03 15:37 - chore: update dependencies
 2024-09-03 15:58 - fix: fix currency formatting in reports
+2024-09-04 08:26 - chore: update .gitignore
