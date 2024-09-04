@@ -216,3 +216,4 @@
 2024-09-03 13:08 - test: add unit tests for expense service
 2024-09-04 14:44 - feat: add dark mode support
 2024-09-04 16:32 - test: test edge cases in calculations
+2024-09-04 19:44 - docs: create user guide
