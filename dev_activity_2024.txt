@@ -400,3 +400,4 @@
 2024-09-04 16:43 - fix: resolve login validation issue
 2024-09-04 08:08 - fix: fix file upload validation
 2024-09-04 13:48 - feat: implement data export to CSV/Excel
+2024-09-05 08:48 - feat: add dark/light theme toggle
