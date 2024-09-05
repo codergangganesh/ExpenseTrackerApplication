@@ -222,3 +222,4 @@
 2024-09-04 09:28 - fix: fix timezone handling in expense dates
 2024-09-05 15:01 - test: implement integration tests
 2024-09-05 20:13 - refactor: enhance form validation
+2024-09-05 18:57 - fix: fix data export functionality
