@@ -403,3 +403,4 @@
 2024-09-05 08:48 - feat: add dark/light theme toggle
 2024-09-05 12:08 - docs: update API documentation
 2024-09-05 16:56 - test: add unit tests for services
+2024-09-05 18:30 - refactor: improve error handling
