@@ -224,3 +224,4 @@
 2024-09-05 20:13 - refactor: enhance form validation
 2024-09-05 18:57 - fix: fix data export functionality
 2024-09-05 10:55 - fix: resolve sync conflicts between devices
+2024-09-06 12:08 - docs: add JSDoc to components
