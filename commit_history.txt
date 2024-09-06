@@ -226,3 +226,4 @@
 2024-09-05 10:55 - fix: resolve sync conflicts between devices
 2024-09-06 12:08 - docs: add JSDoc to components
 2024-09-06 18:38 - refactor: improve state management
+2024-09-06 16:29 - fix: fix data export functionality
