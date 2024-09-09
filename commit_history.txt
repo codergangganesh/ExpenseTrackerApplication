@@ -227,3 +227,4 @@
 2024-09-06 12:08 - docs: add JSDoc to components
 2024-09-06 18:38 - refactor: improve state management
 2024-09-06 16:29 - fix: fix data export functionality
+2024-09-09 17:03 - refactor: optimize database queries
