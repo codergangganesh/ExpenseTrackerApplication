@@ -230,3 +230,4 @@
 2024-09-09 17:03 - refactor: optimize database queries
 2024-09-09 12:09 - docs: update API documentation
 2024-09-09 20:27 - feat: create financial goals feature
+2024-09-09 15:25 - feat: add monthly budget tracking
