@@ -421,3 +421,4 @@
 2024-09-10 17:45 - refactor: improve state management
 2024-09-10 13:54 - refactor: improve state management
 2024-09-10 12:17 - docs: add JSDoc comments to components
+2024-09-10 13:32 - fix: resolve chart rendering issues
