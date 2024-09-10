@@ -233,3 +233,4 @@
 2024-09-09 15:25 - feat: add monthly budget tracking
 2024-09-10 17:07 - feat: add monthly budget tracking
 2024-09-10 14:55 - docs: update README with new features
+2024-09-10 20:38 - refactor: update authentication flow
