@@ -238,3 +238,4 @@
 2024-09-11 10:42 - fix: fix data export functionality
 2024-09-11 09:09 - docs: add JSDoc to components
 2024-09-11 15:32 - refactor: update authentication flow
+2024-09-11 13:28 - fix: resolve sync conflicts between devices
