@@ -235,3 +235,4 @@
 2024-09-10 14:55 - docs: update README with new features
 2024-09-10 20:38 - refactor: update authentication flow
 2024-09-11 11:00 - docs: update API documentation
+2024-09-11 10:42 - fix: fix data export functionality
