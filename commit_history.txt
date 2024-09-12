@@ -241,3 +241,4 @@
 2024-09-11 13:28 - fix: resolve sync conflicts between devices
 2024-09-12 16:19 - refactor: improve state management
 2024-09-12 20:47 - feat: add receipt scanning with OCR
+2024-09-12 11:56 - refactor: improve state management
