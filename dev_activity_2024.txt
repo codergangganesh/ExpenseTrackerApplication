@@ -432,3 +432,4 @@
 2024-09-11 09:09 - fix: resolve chart rendering issues
 2024-09-12 11:06 - chore: add linting configuration
 2024-09-12 14:01 - test: test edge cases in calculations
+2024-09-12 13:22 - refactor: restructure components for reusability
