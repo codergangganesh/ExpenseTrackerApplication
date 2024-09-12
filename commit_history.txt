@@ -242,3 +242,4 @@
 2024-09-12 16:19 - refactor: improve state management
 2024-09-12 20:47 - feat: add receipt scanning with OCR
 2024-09-12 11:56 - refactor: improve state management
+2024-09-12 20:34 - test: add E2E test for user flows
