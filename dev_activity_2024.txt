@@ -430,3 +430,4 @@
 2024-09-11 13:47 - fix: resolve chart rendering issues
 2024-09-11 12:32 - fix: correct date handling in expense form
 2024-09-11 09:09 - fix: resolve chart rendering issues
+2024-09-12 11:06 - chore: add linting configuration
