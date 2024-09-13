@@ -436,3 +436,4 @@
 2024-09-12 10:02 - test: add E2E test for user flows
 2024-09-12 14:53 - fix: fix data synchronization between devices
 2024-09-13 20:28 - test: implement integration tests
+2024-09-13 17:52 - feat: add dark/light theme toggle
