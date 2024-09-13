@@ -247,3 +247,4 @@
 2024-09-13 10:00 - test: add unit tests for expense service
 2024-09-13 14:07 - fix: fix timezone handling in expense dates
 2024-09-13 16:18 - fix: fix data export functionality
+2024-09-13 09:55 - fix: resolve sync conflicts between devices
