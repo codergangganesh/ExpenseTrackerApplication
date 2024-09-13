@@ -441,3 +441,4 @@
 2024-09-13 12:52 - chore: add linting configuration
 2024-09-13 09:41 - docs: update README with setup instructions
 2024-09-13 20:53 - fix: correct date handling in expense form
+2024-09-13 12:41 - feat: add expense tracking functionality
