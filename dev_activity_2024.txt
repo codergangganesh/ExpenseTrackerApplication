@@ -437,3 +437,4 @@
 2024-09-12 14:53 - fix: fix data synchronization between devices
 2024-09-13 20:28 - test: implement integration tests
 2024-09-13 17:52 - feat: add dark/light theme toggle
+2024-09-13 11:34 - refactor: improve error handling
