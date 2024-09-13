@@ -244,3 +244,4 @@
 2024-09-12 11:56 - refactor: improve state management
 2024-09-12 20:34 - test: add E2E test for user flows
 2024-09-13 11:56 - docs: add contribution guidelines
+2024-09-13 10:00 - test: add unit tests for expense service
