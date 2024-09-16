@@ -446,3 +446,4 @@
 2024-09-16 12:43 - chore: configure CI/CD pipeline
 2024-09-16 08:03 - refactor: improve state management
 2024-09-16 15:43 - docs: add JSDoc comments to components
+2024-09-16 11:13 - fix: fix currency formatting in reports
