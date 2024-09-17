@@ -448,3 +448,4 @@
 2024-09-16 15:43 - docs: add JSDoc comments to components
 2024-09-16 11:13 - fix: fix currency formatting in reports
 2024-09-17 13:32 - fix: resolve login validation issue
+2024-09-17 17:36 - refactor: optimize image loading
