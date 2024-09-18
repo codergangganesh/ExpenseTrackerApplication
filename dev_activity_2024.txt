@@ -455,3 +455,4 @@
 2024-09-17 18:58 - fix: fix file upload validation
 2024-09-17 13:32 - feat: add budget management system
 2024-09-18 20:26 - test: add performance benchmarks
+2024-09-18 13:23 - docs: create user guide
