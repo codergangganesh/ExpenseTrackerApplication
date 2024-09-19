@@ -461,3 +461,4 @@
 2024-09-18 08:33 - docs: add JSDoc comments to components
 2024-09-18 18:25 - test: add E2E test for user flows
 2024-09-18 20:44 - fix: correct date handling in expense form
+2024-09-19 13:43 - docs: add JSDoc comments to components
