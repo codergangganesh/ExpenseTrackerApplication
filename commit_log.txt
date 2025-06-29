@@ -1,3 +1,4 @@
 2025-06-29 - feat: add currency conversion support
 2025-06-29 - test: add performance benchmarks
 2025-06-29 - feat: implement expense filtering by date range
+2025-06-29 - refactor: optimize database queries for dashboard
