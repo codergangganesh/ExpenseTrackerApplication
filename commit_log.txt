@@ -6,3 +6,4 @@
 2025-06-30 - fix: correct currency formatting in exports
 2025-06-30 - refactor: improve error handling in API endpoints
 2025-06-30 - docs: add JSDoc comments to components
+2025-06-30 - refactor: improve error handling in API endpoints
