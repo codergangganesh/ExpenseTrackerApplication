@@ -3,3 +3,4 @@
 2025-06-29 - feat: implement expense filtering by date range
 2025-06-29 - refactor: optimize database queries for dashboard
 2025-06-29 - refactor: restructure components for better reusability
+2025-06-30 - fix: correct currency formatting in exports
