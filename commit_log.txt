@@ -12,3 +12,4 @@
 2025-07-01 - refactor: restructure components for better reusability
 2025-07-01 - fix: resolve calculation error in monthly report
 2025-07-01 - feat: add currency conversion support
+2025-07-01 - docs: update API documentation
