@@ -10,3 +10,4 @@
 2025-06-30 - feat: implement expense filtering by date range
 2025-07-01 - feat: implement expense filtering by date range
 2025-07-01 - refactor: restructure components for better reusability
+2025-07-01 - fix: resolve calculation error in monthly report
