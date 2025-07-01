@@ -1,3 +1,4 @@
 2025-07-01 - feat: initialize project with Spring Boot and React
 2025-07-01 - chore: set up Maven build configuration
 2025-07-01 - docs: add project documentation and README
+2025-07-01 - feat: implement basic domain models
