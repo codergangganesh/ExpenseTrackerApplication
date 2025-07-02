@@ -16,3 +16,4 @@
 2025-07-02 - fix: fix date parsing issue in expense form
 2025-07-02 - docs: create user guide for expense tracking
 2025-07-02 - docs: update API documentation
+2025-07-02 - fix: correct currency formatting in exports
