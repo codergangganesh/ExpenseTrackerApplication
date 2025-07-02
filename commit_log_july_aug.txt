@@ -4,3 +4,4 @@
 2025-07-01 - feat: implement basic domain models
 2025-07-01 - test: add initial test suite setup
 2025-07-02 - feat: implement user authentication service
+2025-07-02 - feat: add JWT token generation and validation
