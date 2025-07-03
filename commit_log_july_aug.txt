@@ -8,3 +8,4 @@
 2025-07-02 - feat: implement user registration endpoint
 2025-07-02 - test: add authentication service tests
 2025-07-02 - docs: update API documentation for auth endpoints
+2025-07-03 - feat: implement expense tracking domain model
