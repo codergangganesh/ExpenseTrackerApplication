@@ -18,3 +18,4 @@
 2025-07-02 - docs: update API documentation
 2025-07-02 - fix: correct currency formatting in exports
 2025-07-02 - test: test edge cases in expense calculations
+2025-07-03 - docs: create user guide for expense tracking
