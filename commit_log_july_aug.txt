@@ -10,3 +10,4 @@
 2025-07-02 - docs: update API documentation for auth endpoints
 2025-07-03 - feat: implement expense tracking domain model
 2025-07-03 - feat: add expense repository with JPA
+2025-07-03 - feat: implement expense service layer
