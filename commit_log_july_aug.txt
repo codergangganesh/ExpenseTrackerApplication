@@ -16,3 +16,4 @@
 2025-07-04 - feat: implement REST controllers for expense management
 2025-07-04 - feat: add request/response DTOs
 2025-07-04 - feat: implement data validation
+2025-07-04 - test: add integration tests for controllers
