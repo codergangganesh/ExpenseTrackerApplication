@@ -30,3 +30,4 @@
 2025-07-04 - feat: add expense category management
 2025-07-05 - docs: create user guide for expense tracking
 2025-07-05 - feat: create monthly budget tracking
+2025-07-05 - docs: create user guide for expense tracking
