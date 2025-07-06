@@ -34,3 +34,4 @@
 2025-07-05 - refactor: optimize database queries for dashboard
 2025-07-05 - feat: implement expense filtering by date range
 2025-07-06 - refactor: restructure components for better reusability
+2025-07-06 - docs: create user guide for expense tracking
