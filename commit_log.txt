@@ -37,3 +37,4 @@
 2025-07-06 - docs: create user guide for expense tracking
 2025-07-06 - refactor: update state management with context API
 2025-07-06 - refactor: enhance form validation logic
+2025-07-06 - test: test edge cases in expense calculations
