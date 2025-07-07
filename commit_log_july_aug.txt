@@ -22,3 +22,4 @@
 2025-07-07 - feat: add authentication flow in frontend
 2025-07-07 - feat: implement login/signup forms
 2025-07-07 - style: add responsive design with Material-UI
+2025-07-07 - test: add frontend unit tests
