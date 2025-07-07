@@ -19,3 +19,4 @@
 2025-07-04 - test: add integration tests for controllers
 2025-07-04 - docs: update API documentation for expense endpoints
 2025-07-07 - feat: implement frontend with React and TypeScript
+2025-07-07 - feat: add authentication flow in frontend
