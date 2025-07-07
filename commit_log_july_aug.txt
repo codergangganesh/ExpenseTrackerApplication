@@ -18,3 +18,4 @@
 2025-07-04 - feat: implement data validation
 2025-07-04 - test: add integration tests for controllers
 2025-07-04 - docs: update API documentation for expense endpoints
+2025-07-07 - feat: implement frontend with React and TypeScript
