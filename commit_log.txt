@@ -39,3 +39,4 @@
 2025-07-06 - refactor: enhance form validation logic
 2025-07-06 - test: test edge cases in expense calculations
 2025-07-07 - feat: add currency conversion support
+2025-07-07 - docs: update README with setup instructions
