@@ -25,3 +25,4 @@
 2025-07-07 - test: add frontend unit tests
 2025-07-08 - feat: implement expense list and form components
 2025-07-08 - feat: add state management with Redux
+2025-07-08 - feat: implement API service layer
