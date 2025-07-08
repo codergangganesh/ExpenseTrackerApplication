@@ -47,3 +47,4 @@
 2025-07-08 - docs: update API documentation
 2025-07-08 - test: implement E2E tests for user flows
 2025-07-08 - feat: implement expense filtering by date range
+2025-07-08 - docs: update README with setup instructions
