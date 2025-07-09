@@ -32,3 +32,4 @@
 2025-07-09 - feat: implement categories management
 2025-07-09 - feat: add data export functionality
 2025-07-09 - test: add tests for filtering and export
+2025-07-09 - docs: update user guide
