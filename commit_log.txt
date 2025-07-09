@@ -49,3 +49,4 @@
 2025-07-08 - feat: implement expense filtering by date range
 2025-07-08 - docs: update README with setup instructions
 2025-07-09 - fix: correct currency formatting in exports
+2025-07-09 - feat: add expense category management
