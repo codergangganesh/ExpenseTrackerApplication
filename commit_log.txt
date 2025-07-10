@@ -55,3 +55,4 @@
 2025-07-09 - fix: fix authentication token expiration
 2025-07-10 - docs: add JSDoc comments to components
 2025-07-10 - refactor: restructure components for better reusability
+2025-07-10 - docs: add code style guidelines
