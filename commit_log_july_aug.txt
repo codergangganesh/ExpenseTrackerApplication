@@ -37,3 +37,4 @@
 2025-07-10 - feat: implement notifications system
 2025-07-10 - feat: add expense sharing between users
 2025-07-10 - test: add integration tests for sharing
+2025-07-10 - refactor: improve code organization
