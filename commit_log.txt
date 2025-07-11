@@ -62,3 +62,4 @@
 2025-07-11 - feat: add expense category management
 2025-07-11 - test: add performance benchmarks
 2025-07-11 - test: test edge cases in expense calculations
+2025-07-11 - docs: update README with setup instructions
