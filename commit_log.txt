@@ -60,3 +60,4 @@
 2025-07-10 - docs: create user guide for expense tracking
 2025-07-11 - feat: implement expense filtering by date range
 2025-07-11 - feat: add expense category management
+2025-07-11 - test: add performance benchmarks
