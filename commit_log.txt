@@ -65,3 +65,4 @@
 2025-07-11 - docs: update README with setup instructions
 2025-07-12 - docs: add JSDoc comments to components
 2025-07-12 - refactor: restructure components for better reusability
+2025-07-12 - fix: fix date parsing issue in expense form
