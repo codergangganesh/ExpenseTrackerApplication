@@ -67,3 +67,4 @@
 2025-07-12 - refactor: restructure components for better reusability
 2025-07-12 - fix: fix date parsing issue in expense form
 2025-07-12 - feat: add bulk expense import from CSV
+2025-07-12 - refactor: optimize database queries for dashboard
