@@ -63,3 +63,4 @@
 2025-07-11 - test: add performance benchmarks
 2025-07-11 - test: test edge cases in expense calculations
 2025-07-11 - docs: update README with setup instructions
+2025-07-12 - docs: add JSDoc comments to components
