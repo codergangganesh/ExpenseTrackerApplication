@@ -68,3 +68,4 @@
 2025-07-12 - fix: fix date parsing issue in expense form
 2025-07-12 - feat: add bulk expense import from CSV
 2025-07-12 - refactor: optimize database queries for dashboard
+2025-07-13 - feat: add currency conversion support
