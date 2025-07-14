@@ -45,3 +45,4 @@
 2025-07-11 - style: update UI based on feedback
 2025-07-14 - feat: add multi-currency support
 2025-07-14 - feat: implement currency conversion service
+2025-07-14 - feat: add user preferences for currency
