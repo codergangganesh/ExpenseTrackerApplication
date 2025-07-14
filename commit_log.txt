@@ -74,3 +74,4 @@
 2025-07-13 - test: add performance benchmarks
 2025-07-13 - refactor: enhance form validation logic
 2025-07-14 - docs: add JSDoc comments to components
+2025-07-14 - docs: update README with setup instructions
