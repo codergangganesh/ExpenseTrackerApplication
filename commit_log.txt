@@ -76,3 +76,4 @@
 2025-07-14 - docs: add JSDoc comments to components
 2025-07-14 - docs: update README with setup instructions
 2025-07-14 - test: add integration tests for API endpoints
+2025-07-14 - refactor: update state management with context API
