@@ -82,3 +82,4 @@
 2025-07-15 - docs: update README with setup instructions
 2025-07-15 - docs: create user guide for expense tracking
 2025-07-15 - docs: update README with setup instructions
+2025-07-15 - feat: create monthly budget tracking
