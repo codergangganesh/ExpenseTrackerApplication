@@ -50,3 +50,4 @@
 2025-07-14 - docs: update documentation for currency feature
 2025-07-15 - feat: add receipt image upload and storage
 2025-07-15 - feat: implement OCR for receipt processing
+2025-07-15 - feat: add receipt details extraction
