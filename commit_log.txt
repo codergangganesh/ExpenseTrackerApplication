@@ -78,3 +78,4 @@
 2025-07-14 - test: add integration tests for API endpoints
 2025-07-14 - refactor: update state management with context API
 2025-07-14 - feat: add bulk expense import from CSV
+2025-07-15 - docs: add JSDoc comments to components
