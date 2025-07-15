@@ -48,3 +48,4 @@
 2025-07-14 - feat: add user preferences for currency
 2025-07-14 - test: add currency conversion tests
 2025-07-14 - docs: update documentation for currency feature
+2025-07-15 - feat: add receipt image upload and storage
