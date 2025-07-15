@@ -51,3 +51,4 @@
 2025-07-15 - feat: add receipt image upload and storage
 2025-07-15 - feat: implement OCR for receipt processing
 2025-07-15 - feat: add receipt details extraction
+2025-07-15 - test: add tests for receipt processing
