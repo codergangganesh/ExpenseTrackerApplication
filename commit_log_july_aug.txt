@@ -56,3 +56,4 @@
 2025-07-16 - feat: add data backup and restore
 2025-07-16 - feat: implement scheduled backups
 2025-07-16 - feat: add data import from other apps
+2025-07-16 - test: add backup/restore tests
