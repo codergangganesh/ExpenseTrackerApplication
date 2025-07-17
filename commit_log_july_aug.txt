@@ -58,3 +58,4 @@
 2025-07-16 - feat: add data import from other apps
 2025-07-16 - test: add backup/restore tests
 2025-07-16 - docs: update backup documentation
+2025-07-17 - feat: add dark/light theme support
