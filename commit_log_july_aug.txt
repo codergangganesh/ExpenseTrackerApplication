@@ -61,3 +61,4 @@
 2025-07-17 - feat: add dark/light theme support
 2025-07-17 - feat: implement user profile management
 2025-07-17 - feat: add password reset functionality
+2025-07-17 - test: add user management tests
