@@ -66,3 +66,4 @@
 2025-07-18 - feat: add API rate limiting
 2025-07-18 - feat: implement API versioning
 2025-07-18 - feat: add OpenAPI documentation
+2025-07-18 - test: add API contract tests
