@@ -73,3 +73,4 @@
 2025-07-21 - test: add performance tests
 2025-07-21 - docs: update performance documentation
 2025-07-21 - chore: update dependencies to latest versions
+2025-07-22 - fix: resolve authentication edge cases
