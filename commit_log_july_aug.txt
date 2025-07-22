@@ -77,3 +77,4 @@
 2025-07-22 - fix: handle concurrent updates properly
 2025-07-22 - test: add edge case tests
 2025-07-22 - docs: update known issues
+2025-07-22 - chore: clean up build configuration
