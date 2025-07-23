@@ -79,3 +79,4 @@
 2025-07-22 - docs: update known issues
 2025-07-22 - chore: clean up build configuration
 2025-07-23 - chore: final code cleanup
+2025-07-23 - docs: update final documentation
