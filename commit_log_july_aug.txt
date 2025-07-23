@@ -82,3 +82,4 @@
 2025-07-23 - docs: update final documentation
 2025-07-23 - test: run full test suite
 2025-07-23 - chore: prepare for release
+2025-07-23 - chore: update version to 1.0.0
