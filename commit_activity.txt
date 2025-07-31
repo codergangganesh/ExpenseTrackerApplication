@@ -1,2 +1,3 @@
 2025-07-31 00:00 - perf: cache frequently accessed data
 2025-07-31 00:00 - feat: add recurring expenses feature
+2025-07-31 00:00 - fix: correct currency conversion rounding
