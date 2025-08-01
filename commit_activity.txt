@@ -3,3 +3,4 @@
 2025-07-31 00:00 - fix: correct currency conversion rounding
 2025-08-01 00:00 - feat: add receipt scanning with OCR integration
 2025-08-01 00:00 - fix: resolve sync issues between devices
+2025-08-01 00:00 - fix: fix data export to Excel
