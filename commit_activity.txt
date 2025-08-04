@@ -7,3 +7,4 @@
 2025-08-01 00:00 - ui: add dark mode support
 2025-08-01 00:00 - ui: add dark mode support
 2025-08-04 00:00 - ui: add dark mode support
+2025-08-04 00:00 - ui: improve mobile responsiveness
