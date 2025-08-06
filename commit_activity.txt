@@ -15,3 +15,4 @@
 2025-08-05 00:00 - perf: reduce app bundle size
 2025-08-05 00:00 - feat: add recurring expenses feature
 2025-08-05 00:00 - fix: resolve sync issues between devices
+2025-08-06 00:00 - fix: resolve calculation error in yearly report
