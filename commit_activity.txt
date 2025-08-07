@@ -19,3 +19,4 @@
 2025-08-06 00:00 - security: implement 2FA for user accounts
 2025-08-06 00:00 - fix: resolve sync issues between devices
 2025-08-06 00:00 - fix: resolve calculation error in yearly report
+2025-08-07 00:00 - fix: correct currency conversion rounding
