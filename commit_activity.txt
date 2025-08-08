@@ -29,3 +29,4 @@
 2025-08-08 00:00 - security: update dependencies for security patches
 2025-08-08 00:00 - fix: fix data export to Excel
 2025-08-08 00:00 - security: improve password policy requirements
+2025-08-08 00:00 - feat: add recurring expenses feature
