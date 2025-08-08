@@ -27,3 +27,4 @@
 2025-08-08 00:00 - ui: improve mobile responsiveness
 2025-08-08 00:00 - feat: add recurring expenses feature
 2025-08-08 00:00 - security: update dependencies for security patches
+2025-08-08 00:00 - fix: fix data export to Excel
