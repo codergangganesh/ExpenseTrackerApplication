@@ -24,3 +24,4 @@
 2025-08-07 00:00 - ui: add dark mode support
 2025-08-07 00:00 - feat: create financial goals tracking
 2025-08-07 00:00 - perf: reduce app bundle size
+2025-08-08 00:00 - ui: improve mobile responsiveness
