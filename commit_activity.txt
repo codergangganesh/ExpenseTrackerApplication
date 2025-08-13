@@ -43,3 +43,4 @@
 2025-08-13 00:00 - feat: add receipt scanning with OCR integration
 2025-08-13 00:00 - perf: improve app startup time
 2025-08-13 00:00 - feat: implement expense sharing between users
+2025-08-13 00:00 - security: update dependencies for security patches
