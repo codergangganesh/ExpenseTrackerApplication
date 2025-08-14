@@ -48,3 +48,4 @@
 2025-08-14 00:00 - perf: optimize image loading in reports
 2025-08-14 00:00 - perf: optimize image loading in reports
 2025-08-14 00:00 - feat: create financial goals tracking
+2025-08-14 00:00 - fix: correct currency conversion rounding
