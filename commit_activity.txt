@@ -51,3 +51,4 @@
 2025-08-14 00:00 - fix: correct currency conversion rounding
 2025-08-15 00:00 - security: add rate limiting to API endpoints
 2025-08-15 00:00 - perf: optimize image loading in reports
+2025-08-15 00:00 - fix: resolve sync issues between devices
