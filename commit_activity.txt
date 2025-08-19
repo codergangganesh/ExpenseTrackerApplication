@@ -59,3 +59,4 @@
 2025-08-19 00:00 - feat: add recurring expenses feature
 2025-08-19 00:00 - feat: add investment portfolio tracking
 2025-08-19 00:00 - feat: add investment portfolio tracking
+2025-08-19 00:00 - security: update dependencies for security patches
