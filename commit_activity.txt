@@ -67,3 +67,4 @@
 2025-08-21 00:00 - feat: implement expense sharing between users
 2025-08-21 00:00 - fix: resolve sync issues between devices
 2025-08-21 00:00 - ui: redesign dashboard with new metrics
+2025-08-22 00:00 - security: implement 2FA for user accounts
