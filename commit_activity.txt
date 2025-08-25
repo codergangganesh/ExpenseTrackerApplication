@@ -70,3 +70,4 @@
 2025-08-22 00:00 - security: implement 2FA for user accounts
 2025-08-22 00:00 - feat: create financial goals tracking
 2025-08-22 00:00 - fix: fix data export to Excel
+2025-08-25 00:00 - feat: add investment portfolio tracking
