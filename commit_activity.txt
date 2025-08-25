@@ -72,3 +72,4 @@
 2025-08-22 00:00 - fix: fix data export to Excel
 2025-08-25 00:00 - feat: add investment portfolio tracking
 2025-08-25 00:00 - ui: add dark mode support
+2025-08-25 00:00 - security: encrypt sensitive data at rest
