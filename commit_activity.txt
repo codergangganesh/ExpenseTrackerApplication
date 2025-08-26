@@ -77,3 +77,4 @@
 2025-08-26 00:00 - fix: correct currency conversion rounding
 2025-08-26 00:00 - fix: fix timezone issues in expense dates
 2025-08-26 00:00 - security: update dependencies for security patches
+2025-08-26 00:00 - security: add rate limiting to API endpoints
