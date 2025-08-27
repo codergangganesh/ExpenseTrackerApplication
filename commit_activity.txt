@@ -84,3 +84,4 @@
 2025-08-27 00:00 - feat: add recurring expenses feature
 2025-08-27 00:00 - ui: improve mobile responsiveness
 2025-08-27 00:00 - ui: add dark mode support
+2025-08-27 00:00 - fix: fix data export to Excel
