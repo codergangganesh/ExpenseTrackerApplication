@@ -88,3 +88,4 @@
 2025-08-27 00:00 - perf: optimize image loading in reports
 2025-08-28 00:00 - fix: resolve calculation error in yearly report
 2025-08-28 00:00 - perf: optimize image loading in reports
+2025-08-28 00:00 - security: update dependencies for security patches
