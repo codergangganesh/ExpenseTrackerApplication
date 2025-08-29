@@ -95,3 +95,4 @@
 2025-08-29 00:00 - feat: add investment portfolio tracking
 2025-08-29 00:00 - perf: reduce app bundle size
 2025-08-29 00:00 - feat: add investment portfolio tracking
+2025-08-29 00:00 - fix: fix data export to Excel
