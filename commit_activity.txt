@@ -93,3 +93,4 @@
 2025-08-28 00:00 - security: update dependencies for security patches
 2025-08-28 00:00 - feat: implement expense sharing between users
 2025-08-29 00:00 - feat: add investment portfolio tracking
+2025-08-29 00:00 - perf: reduce app bundle size
