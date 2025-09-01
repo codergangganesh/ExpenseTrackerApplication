@@ -97,3 +97,4 @@
 2025-08-29 00:00 - feat: add investment portfolio tracking
 2025-08-29 00:00 - fix: fix data export to Excel
 2025-08-29 00:00 - security: encrypt sensitive data at rest
+2025-09-01 00:00 - security: update dependencies for security patches
