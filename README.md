@@ -20,8 +20,8 @@ A simple desktop application for tracking personal expenses built with Java and 
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
-   cd ExpenseTracker
+   git clone [(https://github.com/codergangganesh/ExpenseTrackerApplication)]
+   cd ExpenseTrackerApplication
    ```
 
 2. **Build the project**
