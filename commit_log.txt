@@ -1,1 +1,2 @@
 2025-10-31 - feat: implement domain layer with Expense entity and validation
+2025-10-31 - feat: add database connection utility with connection pooling
