@@ -7,3 +7,4 @@
 2025-11-03 - feat: add repository layer with Spring Data JPA
 2025-11-03 - feat: implement service layer with business logic
 2025-11-03 - test: add unit tests for ExpenseService
+2025-11-03 - refactor: optimize database queries in repositories
