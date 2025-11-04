@@ -11,3 +11,4 @@
 2025-11-04 - feat: implement REST controller for expense operations
 2025-11-04 - feat: add DTOs for API request/response
 2025-11-04 - feat: implement global exception handling
+2025-11-04 - test: add integration tests for ExpenseController
