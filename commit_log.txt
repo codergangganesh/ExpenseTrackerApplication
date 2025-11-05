@@ -14,3 +14,4 @@
 2025-11-04 - test: add integration tests for ExpenseController
 2025-11-04 - docs: update API documentation with Swagger
 2025-11-05 - feat: add user authentication with JWT
+2025-11-05 - feat: implement role-based authorization
