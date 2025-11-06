@@ -19,3 +19,4 @@
 2025-11-05 - test: add security test cases
 2025-11-05 - chore: update dependencies for security
 2025-11-06 - feat: implement frontend with React and TypeScript
+2025-11-06 - feat: add expense list and form components
