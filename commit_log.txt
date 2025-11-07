@@ -25,3 +25,4 @@
 2025-11-06 - test: add frontend unit tests
 2025-11-07 - feat: add expense filtering and sorting functionality
 2025-11-07 - feat: implement expense categories management
+2025-11-07 - feat: add data export to CSV/Excel
