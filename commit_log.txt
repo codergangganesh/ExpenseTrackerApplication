@@ -31,3 +31,4 @@
 2025-11-10 - feat: add recurring expenses feature
 2025-11-10 - feat: implement expense reminders and notifications
 2025-11-10 - feat: add expense sharing between users
+2025-11-10 - test: add integration tests for sharing feature
