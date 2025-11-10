@@ -29,3 +29,4 @@
 2025-11-07 - test: add tests for export functionality
 2025-11-07 - docs: update user guide with new features
 2025-11-10 - feat: add recurring expenses feature
+2025-11-10 - feat: implement expense reminders and notifications
