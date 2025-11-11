@@ -33,3 +33,4 @@
 2025-11-10 - feat: add expense sharing between users
 2025-11-10 - test: add integration tests for sharing feature
 2025-11-10 - refactor: improve code organization and naming
+2025-11-11 - feat: add data visualization with charts
