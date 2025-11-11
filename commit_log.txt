@@ -36,3 +36,4 @@
 2025-11-11 - feat: add data visualization with charts
 2025-11-11 - feat: implement expense trends analysis
 2025-11-11 - feat: add budget planning feature
+2025-11-11 - test: add tests for budget calculations
