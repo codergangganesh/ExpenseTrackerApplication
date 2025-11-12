@@ -38,3 +38,4 @@
 2025-11-11 - feat: add budget planning feature
 2025-11-11 - test: add tests for budget calculations
 2025-11-11 - style: improve UI/UX based on feedback
+2025-11-12 - feat: add multi-currency support
