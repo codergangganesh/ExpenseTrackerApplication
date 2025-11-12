@@ -42,3 +42,4 @@
 2025-11-12 - feat: implement currency conversion service
 2025-11-12 - feat: add user preferences for currency
 2025-11-12 - test: add tests for currency conversion
+2025-11-12 - docs: update documentation for multi-currency feature
