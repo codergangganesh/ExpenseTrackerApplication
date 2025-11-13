@@ -44,3 +44,4 @@
 2025-11-12 - test: add tests for currency conversion
 2025-11-12 - docs: update documentation for multi-currency feature
 2025-11-13 - feat: add receipt image upload and storage
+2025-11-13 - feat: implement OCR for receipt processing
