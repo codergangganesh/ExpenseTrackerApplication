@@ -51,3 +51,4 @@
 2025-11-14 - feat: add data backup and restore functionality
 2025-11-14 - feat: implement scheduled backups
 2025-11-14 - feat: add data import from other expense apps
+2025-11-14 - test: add tests for backup/restore
