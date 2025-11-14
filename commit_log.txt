@@ -48,3 +48,4 @@
 2025-11-13 - feat: add receipt details extraction
 2025-11-13 - test: add tests for receipt processing
 2025-11-13 - chore: update dependencies and build configuration
+2025-11-14 - feat: add data backup and restore functionality
