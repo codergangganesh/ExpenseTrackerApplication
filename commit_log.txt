@@ -57,3 +57,4 @@
 2025-11-17 - feat: implement user profile management
 2025-11-17 - feat: add password reset functionality
 2025-11-17 - test: add tests for user management
+2025-11-17 - style: update UI for better accessibility
