@@ -54,3 +54,4 @@
 2025-11-14 - test: add tests for backup/restore
 2025-11-14 - docs: update backup/restore documentation
 2025-11-17 - feat: add dark/light theme support
+2025-11-17 - feat: implement user profile management
