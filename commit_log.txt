@@ -61,3 +61,4 @@
 2025-11-18 - feat: add API rate limiting and throttling
 2025-11-18 - feat: implement API versioning
 2025-11-18 - feat: add API documentation with OpenAPI
+2025-11-18 - test: add API contract tests
