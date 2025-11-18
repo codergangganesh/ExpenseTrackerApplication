@@ -58,3 +58,4 @@
 2025-11-17 - feat: add password reset functionality
 2025-11-17 - test: add tests for user management
 2025-11-17 - style: update UI for better accessibility
+2025-11-18 - feat: add API rate limiting and throttling
