@@ -60,3 +60,4 @@
 2025-11-17 - style: update UI for better accessibility
 2025-11-18 - feat: add API rate limiting and throttling
 2025-11-18 - feat: implement API versioning
+2025-11-18 - feat: add API documentation with OpenAPI
