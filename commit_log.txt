@@ -62,3 +62,4 @@
 2025-11-18 - feat: implement API versioning
 2025-11-18 - feat: add API documentation with OpenAPI
 2025-11-18 - test: add API contract tests
+2025-11-18 - docs: update API documentation
